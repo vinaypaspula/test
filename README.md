@@ -13,4 +13,4 @@ They're easy to eat. Because the meat is ground up, you don't have to do much ch
   2. Open Github desktop.
   3. Add the appropiate commit message and commit to main.
   4. Push it to the origin.
-4. Now you can see your changes in the Github.
+1. Now you can see your changes in the Github.
