@@ -6,7 +6,10 @@ They're easy to eat. Because the meat is ground up, you don't have to do much ch
 
 ---
 # How to push a file to Github.
-1.test
-  1.test
-2.hdwjshdw
-
+1. Create a new repository in Github.
+2. Clone it to the local repository.
+3. Open VS Code.
+  1. Edit the file and save it.
+  2. Open Github desktop.
+  3. Add the appropiate commit message and commit to main.
+  4. Push it to the origin.
