@@ -6,7 +6,7 @@ They're easy to eat. Because the meat is ground up, you don't have to do much ch
 
 ---
 # How to push a file to Github.
-1. Create a new repository in Github.
-2. Clone it to the local repository.
-3. Open VS Code.
-  1.test
+1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
