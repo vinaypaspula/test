@@ -9,8 +9,8 @@ They're easy to eat. Because the meat is ground up, you don't have to do much ch
 1. Create a new repository in Github.
 2. Clone it to the local repository.
 3. Open VS Code.
-  1. Edit the file and save it.
-  2. Open Github desktop.
+  1.Edit the file and save it.
+  2.Open Github desktop.
   3. Add the appropiate commit message and commit to main.
   4. Push it to the origin.
 1. Now you can see your changes in the Github.
